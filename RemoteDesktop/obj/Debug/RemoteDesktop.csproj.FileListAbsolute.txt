@@ -1,0 +1,7 @@
+C:\Users\Chris\source\repos\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.csprojResolveAssemblyReference.cache
+C:\Users\Chris\source\repos\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\RemoteDesktop\RemoteDesktop\bin\Debug\RemoteDesktop.exe.config
+C:\Users\Chris\source\repos\RemoteDesktop\RemoteDesktop\bin\Debug\RemoteDesktop.exe
+C:\Users\Chris\source\repos\RemoteDesktop\RemoteDesktop\bin\Debug\RemoteDesktop.pdb
+C:\Users\Chris\source\repos\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.exe
+C:\Users\Chris\source\repos\RemoteDesktop\RemoteDesktop\obj\Debug\RemoteDesktop.pdb
