@@ -11,14 +11,14 @@ namespace RemoteDesktop
 
             if (fDeny != null)
             {
-                fDeny.SetValue("fDenyTSConnections", "0");
+                fDeny.SetValue("fDenyTSConnections", 0, RegistryValueKind.DWord);
             }
 
             if (userAuth != null)
             {
-                userAuth.SetValue("UserAuthentication", "1");
+                userAuth.SetValue("UserAuthentication", 1, RegistryValueKind.DWord);
             }
-            
+
 
         }
     }
